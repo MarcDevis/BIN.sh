@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ARRIBAR=${1}
+NUMERO=1
+TOTAL=1
