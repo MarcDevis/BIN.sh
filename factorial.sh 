@@ -3,3 +3,11 @@
 ARRIBAR=${1}
 NUMERO=1
 TOTAL=1
+while [[ NUMERO -le ARRIBAR ]]
+do
+
+    TOTAL=$(echo TOTAL*NUMERO | bc)
+    NUMERO=$((NUMERO+1))
+done
+
+echo "el factorial de $ARRIBAR val $TOTAL"
