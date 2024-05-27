@@ -1,1 +1,0 @@
-ejecutar_root.sh
