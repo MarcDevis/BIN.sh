@@ -1,4 +1,4 @@
-John Doe ,jdoe
+John Doe,jdoe
 Jane Smith,jsmith
 Robert Johnson,rjohnson
 Michael Brown,mbrown
